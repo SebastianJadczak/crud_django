@@ -1,14 +1,14 @@
-Cel zadania:
+**Cel zadania:**
 
 Stworzenie prostego serwisu RESTful API do zarządzania listą produktów. Aplikacja powinna umożliwiać dodawanie, edytowanie, usuwanie oraz przeglądanie produktów.
 
  
 
-Wymagania funkcjonalne:
+**Wymagania funkcjonalne:**
 
  
 
-Dodawanie produktu:
+**Dodawanie produktu:**
  
 
 Użytkownik powinien móc dodać nowy produkt, dostarczając nazwę, opis, cenę oraz ilość dostępnych sztuk.
@@ -17,21 +17,21 @@ Każdy produkt powinien mieć unikalny identyfikator, datę dodania oraz kategor
 
  
 
-Edytowanie produktu:
+**Edytowanie produktu:**
  
 
 Użytkownik powinien mieć możliwość edycji istniejącego produktu, zmieniając jego nazwę, opis, cenę, ilość dostępnych sztuk lub kategorię.
 
  
 
-Usuwanie produktu:
+**Usuwanie produktu:**
  
 
 Użytkownik powinien móc usunąć produkt na podstawie jego identyfikatora.
 
  
 
-Przeglądanie produktów:
+**Przeglądanie produktów:**
  
 
 Użytkownik powinien móc przeglądać wszystkie produkty.
@@ -42,7 +42,7 @@ Dodaj paginację do przeglądania produktów.
 
  
 
-Wymagania techniczne:
+**Wymagania techniczne:**
 
       Użyj frameworka FastAPI lub Django REST framework.
 
